@@ -1,0 +1,1 @@
+Basic exercise about create a website containing recipes using git.
